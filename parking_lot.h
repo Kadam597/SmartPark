@@ -1,7 +1,7 @@
 #ifndef PARKING_LOT_H
 #define PARKING_LOT_H
 
-#include "vehicle.h"
+#include "parking_lot.h"
 #include "parking_slot.h"
 #include "vehicle_types.h"
 
